@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+/* common css code start  */
+body{
+    background-color: #E6E8D2;
+    color: ;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* common css code end  */
+
+
+/* header section start  */
+header{}
+
+.logo{
+    font-weight: 700;
+    font-size: 30px;
+
+
+}
+
+.menu{}
+
+.menu ul li a{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-right: 20px;
+
+}
+
+.menu ul li a:hover{
+    color: black;
+
+}
+
+.menu ul li:last-child a{
+    font-size: 18px;
+    padding: 6px 30px;
+    margin-right: 0;
+    color: white;
+
+
+}
+/* header section end  */
+
+
+/* banner section start  */
+.banner{
+    margin-top: 70px;
+}
+
+.b_h1{
+    font-size: 46px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding: 0 135px 0 0;
+    line-height: 60px;
+}
+.b_h1 span{
+    color: rgb(62, 62, 255);
+    line-height: 46px;
+
+}
+
+.b_p{
+    padding-right: 105px;
+    line-height: 27px;
+    margin: 45px 0 35px;
+}
+
+.b_btn1{
+    padding: 7px 17px;
+    margin-right: 25px;
+}
+
+.b_btn2{
+    padding: 7px 17px;
+}
+.b_img{}
+
+.b_img img{
+
+}
+
+.b_text{}
+
+/* banner section end  */
+
+/* feature section start */
+.feature{
+    margin-top: 70px;
+}
+
+.f_p{}
+
+.f_p p{
+    text-transform: uppercase;
+    color: rgb(62, 62, 255);
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.f_h1 h1{
+    font-weight: 600;
+    padding: 0 350px;
+    font-size: 46px;
+    margin: 20px 0 75px;
+}
+
+.f_item{}
+
+.f_item h3{
+    margin: 15px 0 7px;
+}
+
+.f_item p{
+    padding-right: 18px;
+    font-size: 18px;
+
+}
+
+
+.f_ico i{
+    font-size: 40px;
+}
+
+
+
+/* feature section end */
+
+/* services section start */
+.m_right{
+    margin-right: 15px;
+    padding: 6px 30px;
+}
+.service{
+    margin-top: 70px;
+}
+.s_h1 h1{
+    font-weight: 600;
+}
